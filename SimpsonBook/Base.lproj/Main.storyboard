@@ -60,7 +60,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="25" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ka5-Ef-nJK">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Job Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="25" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ka5-Ef-nJK">
                                 <rect key="frame" x="39" y="575" width="310" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="fGh-Zv-tJB"/>
@@ -88,6 +88,7 @@
                     <navigationItem key="navigationItem" id="qtW-Od-zFh"/>
                     <connections>
                         <outlet property="imageView" destination="jXW-C5-vMz" id="ytq-HT-mHt"/>
+                        <outlet property="jobLabel" destination="ka5-Ef-nJK" id="UOa-Uj-EYh"/>
                         <outlet property="nameLabel" destination="kwa-HK-GjX" id="gfH-CM-neY"/>
                     </connections>
                 </viewController>
