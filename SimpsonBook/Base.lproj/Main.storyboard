@@ -38,7 +38,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="724.4274809160305" y="-8.4507042253521139"/>
+            <point key="canvasLocation" x="950" y="-8"/>
         </scene>
         <!--DetailVC-->
         <scene sceneID="jKg-2C-bqe">
@@ -93,7 +93,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jFS-m5-geo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1355" y="-8"/>
+            <point key="canvasLocation" x="1760" y="-8"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="5Yz-5J-Vo6">
